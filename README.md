@@ -4,9 +4,8 @@ Aplaude 2 veces y Jarvis te da la bienvenida, pone música y abre tus apps.
 
 ## ¿Qué hace?
 1. Detecta 2 aplausos por el micrófono
-2. Una voz dice **"Bienvenido a casa, señor Tatay"**
+2. Una voz dice **"Bienvenido a casa, señor joaco "**
 3. Abre YouTube con tu canción
-4. Abre **Claude** y **Cursor** lado a lado
 
 ## Instalación
 
